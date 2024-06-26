@@ -172,3 +172,5 @@ useEffect(() => {
 ## Sử dụng Yup để xác thực
 
 - Yup là một thư viện phổ biến để xác thực schema, thường được sử dụng cùng với Formik. Bạn có thể định nghĩa các quy tắc xác thực một cách dễ dàng và tích hợp chúng vào Formik.
+
+# SWR
